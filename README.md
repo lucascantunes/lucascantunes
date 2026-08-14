@@ -18,8 +18,7 @@ Sistema web desenvolvido para auxiliar no gerenciamento das atividades de uma po
 
 O projeto foi desenvolvido do zero, desde a estrutura do banco de dados até a implementação das funcionalidades e disponibilização da aplicação.
 
-Principais funcionalidades:
-
+**Principais funcionalidades:**
 - Cadastro de blocos, apartamentos e moradores
 - Controle de visitantes
 - Geração de QR Code para visitantes
@@ -29,38 +28,23 @@ Principais funcionalidades:
 - Sistema de autenticação
 - Integração com notificações via WhatsApp
 
-Tecnologias utilizadas:
+**Tecnologias utilizadas:**
 
-### Backend
-- Python
-- Flask
+**Backend:** Python, Flask
 
-### Banco de dados
-- PostgreSQL
-- SQL
+**Banco de dados:** PostgreSQL, SQL
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+**Frontend:** HTML5, CSS3, JavaScript
 
-### Ferramentas e infraestrutura
-- Git
-- GitHub
-- Deploy de aplicações
-- Variáveis de ambiente
+**Ferramentas e infraestrutura:** Git, GitHub, Deploy de aplicações, Variáveis de ambiente
 
-### Integrações
-- Integração com APIs externas
-- Integração com serviços externos
+**Integrações:** APIs externas, serviços externos (WhatsApp)
 
-Repositório:
-https://github.com/lucascantunes/sistema-portaria
+**Repositório:** [sistema-portaria](https://github.com/lucascantunes/sistema-portaria)
 
 ## Conhecimentos
 
 Tecnologias e ferramentas que já utilizei em projetos:
-
 - Desenvolvimento de aplicações web
 - Modelagem e manipulação de bancos de dados relacionais
 - Desenvolvimento backend com Python
@@ -75,6 +59,5 @@ Busco uma oportunidade de estágio em desenvolvimento de software para continuar
 
 ## Contato
 
-LinkedIn:
-
-Email: lucascarvalhoantunes@gmail.com
+- **LinkedIn:** _(em breve)_
+- **Email:** lucascarvalhoantunes [at] gmail.com

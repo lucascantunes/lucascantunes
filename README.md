@@ -55,7 +55,7 @@ Tecnologias utilizadas:
 - Integração com serviços externos
 
 Repositório:
-https://github.com/lucascarvalhoantunes29-collab/sistema-portaria
+https://github.com/lucascantunes/sistema-portaria
 
 ## Conhecimentos
 

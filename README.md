@@ -59,5 +59,5 @@ Busco uma oportunidade de estágio em desenvolvimento de software para continuar
 
 ## Contato
 
-- **LinkedIn:** _(em breve)_
+- **LinkedIn:** linkedin.com/in/lucas-carvalho-antunes-b35632420
 - **Email:** lucascarvalhoantunes [at] gmail.com
